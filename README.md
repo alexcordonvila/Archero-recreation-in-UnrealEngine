@@ -3,16 +3,20 @@
 # Link to the gameplay video: 
 [![Learning Unreal Engine](https://i9.ytimg.com/vi/OIYm6vissoA/mq2.jpg?sqp=CJehzfQF&rs=AOn4CLBVxJjVfB2iHkszMhr2oR_Dk11P6Q)](https://www.youtube.com/watch?v=h3HG1Fals78&feature=youtu.be "Unreal Engine Archero ")
 ## Custom Blueprints:
- 
- ## Particle Effects:
- 
+- Custom camera movement:
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG)
+
+
+## Particle Effects:
+ Ghost single particle used in the enemy death effect.
    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG)
-   
+ 
+ Step dust particle.
    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG)
    
- ## HUD and 3D UI:
+## HUD and 3D UI:
 
- ## Sounds:
+## Sounds:
  
  - 3 sound queues:
  
@@ -31,6 +35,11 @@
  
  ## BONUS POINTS:
   - Persistent data:
+    Loading player state:
+    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState.JPG)
+    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
+
+  
   
   - Character Custom animation:
   
@@ -47,7 +56,9 @@
   
   - Pathfinding:
   
-  - Loading levels in game runtime
+  - Loading levels in game runtime:
+     ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/LoadLevelBP.JPG)
+
   
   - 2D Sprites and Tilemap
   
