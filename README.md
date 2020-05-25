@@ -11,7 +11,7 @@
  ## Sounds:
  
   ## Terrain:
-  -
+  -We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
   ##Physics:
   -Projectiles
   ##BONUS POINTS:
@@ -20,7 +20,7 @@
   -Artificial Intelligence
   -Pathfinding
   -Loading levels in game runtime
-  
+  -2D Sprites and Tilemap
   
 ## Style and artwork
   - We've used the modular Sci-Fi Kitbash Level Builder: https://www.unrealengine.com/marketplace/en-US/product/scifi-kitbash-level-builder
