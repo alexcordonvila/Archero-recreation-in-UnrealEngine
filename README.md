@@ -5,30 +5,51 @@
 ## Custom Blueprints:
  
  ## Particle Effects:
+ 
    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG)
+   
    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG)
+   
  ## HUD and 3D UI:
 
  ## Sounds:
- -3 sound queues:
+ 
+ - 3 sound queues:
+ 
  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds1.JPG)
+ 
  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds2.JPG)
+ 
+ - Step sounds placed in animation:
+ 
+  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/SoundsSteps.JPG)
+ 
   ## Terrain:
-  -We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
+  - We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
   ## Physics:
-  -Projectiles
+  - Projectiles
  
  ## BONUS POINTS:
-  -Persistent data:
-  -Character Custom animation:
-  -Custom weapons placed in character:
+  - Persistent data:
+  
+  - Character Custom animation:
+  
+   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterAnimation.JPG)
+  - Custom weapons placed in character:
+  
    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterWeapon.JPG)
-  -HUD animation for transitions between levels:
-  -Character Retargetting:
-  -Artificial Intelligence:
-  -Pathfinding:
-  -Loading levels in game runtime
-  -2D Sprites and Tilemap
+   
+  - HUD animation for transitions between levels:
+  
+  - Character Retargetting:
+  
+  - Artificial Intelligence:
+  
+  - Pathfinding:
+  
+  - Loading levels in game runtime
+  
+  - 2D Sprites and Tilemap
   
 ## Style and artwork
   - We've used the modular Sci-Fi Kitbash Level Builder: https://www.unrealengine.com/marketplace/en-US/product/scifi-kitbash-level-builder
