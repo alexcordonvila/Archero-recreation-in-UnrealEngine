@@ -9,7 +9,9 @@
  ## HUD and 3D UI:
 
  ## Sounds:
- 
+ -3 sound queues:
+ ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds1.JPG)
+ ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds2.JPG)
   ## Terrain:
   -We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
   ##Physics:
