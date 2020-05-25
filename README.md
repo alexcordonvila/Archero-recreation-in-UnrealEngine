@@ -3,7 +3,7 @@
 # Link to the gameplay video: 
 [![Learning Unreal Engine](https://i9.ytimg.com/vi/OIYm6vissoA/mq2.jpg?sqp=CJehzfQF&rs=AOn4CLBVxJjVfB2iHkszMhr2oR_Dk11P6Q)](https://www.youtube.com/watch?v=h3HG1Fals78&feature=youtu.be "Unreal Engine Archero ")
 ## Custom Blueprints:
-- Custom camera movement:
+- Custom camera movement: Camera only moving when player go upwards or downwards.
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG)
 
 
@@ -30,11 +30,21 @@
  
   ## Terrain:
   - We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
+  
+    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/TileMap2.JPG)
+
+  
+  
+  
   ## Physics:
   - Projectiles
  
  ## BONUS POINTS:
   - Persistent data:
+    Game Instance:
+    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
+
+    
     Loading player state:
     ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState.JPG)
     ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
