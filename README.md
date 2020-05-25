@@ -14,7 +14,14 @@
   -
   ##Physics:
   -Projectiles
-  ##BONUS POINTS
+  ##BONUS POINTS:
+  -Persistent data
+  -HUD animation for transitions between levels
+  -Artificial Intelligence
+  -Pathfinding
+  -Loading levels in game runtime
+  
+  
 ## Style and artwork
   - We've used the modular Sci-Fi Kitbash Level Builder: https://www.unrealengine.com/marketplace/en-US/product/scifi-kitbash-level-builder
   - We've used the original Doom's sound FX, GDC 2018 & 2019 audio packs and some Infinity Blade Effects (https://www.youtube.com/watch?v=VMbPHuU1KRs)
