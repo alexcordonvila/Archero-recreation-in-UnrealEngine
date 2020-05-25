@@ -5,7 +5,8 @@
 ## Custom Blueprints:
  
  ## Particle Effects:
-  
+   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG)
+   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG)
  ## HUD and 3D UI:
 
  ## Sounds:
@@ -14,13 +15,18 @@
  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds2.JPG)
   ## Terrain:
   -We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
-  ##Physics:
+  ## Physics:
   -Projectiles
-  ##BONUS POINTS:
-  -Persistent data
-  -HUD animation for transitions between levels
-  -Artificial Intelligence
-  -Pathfinding
+ 
+ ## BONUS POINTS:
+  -Persistent data:
+  -Character Custom animation:
+  -Custom weapons placed in character:
+   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterWeapon.JPG)
+  -HUD animation for transitions between levels:
+  -Character Retargetting:
+  -Artificial Intelligence:
+  -Pathfinding:
   -Loading levels in game runtime
   -2D Sprites and Tilemap
   
