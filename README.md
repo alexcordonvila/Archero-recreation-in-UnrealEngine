@@ -8,11 +8,13 @@
 
 
 ## Particle Effects:
- Ghost single particle used in the enemy death effect.
-   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG)
+ Ghost single particle used in the enemy death effect:
  
- Step dust particle.
-   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG)
+ ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG)
+ 
+ Step dust particle:
+ 
+ ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG)
    
 ## HUD and 3D UI:
 
