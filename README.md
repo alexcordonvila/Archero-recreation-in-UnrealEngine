@@ -1,7 +1,7 @@
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-Learning-red)
 # Unreal Engine 4 Archero Recreation
 # Link to the gameplay video: 
-[![Learning Unreal Engine](https://i9.ytimg.com/vi/OIYm6vissoA/mq2.jpg?sqp=CJehzfQF&rs=AOn4CLBVxJjVfB2iHkszMhr2oR_Dk11P6Q)](https://www.youtube.com/watch?v=h3HG1Fals78&feature=youtu.be "Unreal Engine Archero ")
+[![Learning Unreal Engine](https://i9.ytimg.com/vi/h3HG1Fals78/mq2.jpg?sqp=CMOXrvYF&rs=AOn4CLBxycsxCWPy84SWAklq-m_wr0noDA)](https://www.youtube.com/watch?v=h3HG1Fals78&feature=youtu.be "Unreal Engine Archero ")
 ## Custom Blueprints:
 - Custom camera movement: Camera only moving when player go upwards or downwards.
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG)
