@@ -39,7 +39,7 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 
 ## SOUNDS:
  
- - 3 sound queues:
+ - 3 sound queues: Enemy sounds, step sounds and character sounds.
  
  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds1.JPG)
  
@@ -56,20 +56,17 @@ This game is a recreation of the Archero Mobile game. You can move the main char
   
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/TileMap2.JPG)
 
-  
-  
-  
   ## PHYSICS:
-  - Projectiles:
+  - Projectiles: This blueprint uses physics collisions and gravity. This element only can interact with floor and character.
   
 ![Physics]( https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Projectiles.gif)
  
-  - Pickups:
+  - Pickups: Physics are deactivated when each element touches the ground so that the player can attract them.
 
 ![Physics](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Physics.gif)
  
  ## BONUS POINTS:
-  - Persistent data:
+  - Persistent data: We store the current character level and health.
   
 Game Instance:
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
@@ -79,7 +76,7 @@ Loading player state:
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
 
   
-  - 3 different enemies:
+  - 3 different enemies: 
   
   <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Enemies.png" title="Particles">
 
