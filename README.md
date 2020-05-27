@@ -27,6 +27,13 @@ https://youtu.be/h3HG1Fals78
   
 ## HUD and 3D UI:
 
+- Current Character's level:
+ <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/HUD2.JPG" width="400" title="Particles">
+
+- Current Character's health:
+ <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/HUD.JPG" width="400" title="Particles">
+
+
 ## SOUNDS:
  
  - 3 sound queues:
@@ -67,6 +74,10 @@ Loading player state:
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
 
   
+  - 3 different enemies:
+  
+  <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Enemies.png" title="Particles">
+
   
   - Character Custom animation:
   
