@@ -5,6 +5,7 @@
 
 [![Archero Recreation Unreal Engine](https://img.youtube.com/vi/h3HG1Fals78/0.jpg)](https://youtu.be/h3HG1Fals78)
 
+https://youtu.be/h3HG1Fals78
 
 ## Custom Blueprints:
 - Custom camera movement: Camera only moving when player go upwards or downwards.
@@ -47,15 +48,17 @@
   
   
   ## Physics:
-  - Projectiles
+  - Projectiles:
+  
+  ![Physics](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Physics.gif)
  
  ## BONUS POINTS:
   - Persistent data:
-    Game Instance:
+  
+Game Instance:
     ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
 
-    
-    Loading player state:
+Loading player state:
     ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState.JPG)
     ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
 
