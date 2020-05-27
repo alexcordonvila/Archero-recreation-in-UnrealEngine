@@ -50,7 +50,9 @@ https://youtu.be/h3HG1Fals78
   ## Physics:
   - Projectiles:
   
-  ![Physics](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Physics.gif)
+  - Pickups:
+
+![Physics](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Physics.gif)
  
  ## BONUS POINTS:
   - Persistent data:
