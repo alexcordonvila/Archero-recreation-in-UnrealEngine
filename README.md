@@ -17,13 +17,13 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG" title="Particles">
 
 ## PARTICLE EFFECTS:
- Ghost single particle used in the enemy death effect:
+- Ghost single particle used in the enemy death effect:
  
 
 <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG" width="400" title="Particles">
 
  
- Step dust particle: This particle will spawn every 2 character's steps.
+- Step dust particle: This particle will spawn every 2 character's steps.
  
 
  <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG" width="400" title="Particles">
@@ -68,7 +68,7 @@ This game is a recreation of the Archero Mobile game. You can move the main char
  ## BONUS POINTS:
   - Persistent data: We store the current character level and health.
   
-Game Instance:
+- Game Instance:
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
 
 Loading player state:
