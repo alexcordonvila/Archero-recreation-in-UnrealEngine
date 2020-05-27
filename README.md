@@ -42,7 +42,7 @@ https://youtu.be/h3HG1Fals78
   ## Terrain:
   - We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
   
-    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/TileMap2.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/TileMap2.JPG)
 
   
   
@@ -50,7 +50,7 @@ https://youtu.be/h3HG1Fals78
   ## Physics:
   - Projectiles:
   
-  ![Physics]( https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Projectiles.gif)
+![Physics]( https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Projectiles.gif)
  
   - Pickups:
 
@@ -60,20 +60,20 @@ https://youtu.be/h3HG1Fals78
   - Persistent data:
   
 Game Instance:
-    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
 
 Loading player state:
-    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState.JPG)
-    ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
 
   
   
   - Character Custom animation:
   
-   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterAnimation.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterAnimation.JPG)
   - Custom weapons placed in character:
   
-   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterWeapon.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterWeapon.JPG)
    
   - HUD animation for transitions between levels:
   
@@ -84,7 +84,7 @@ Loading player state:
   - Pathfinding:
   
   - Loading levels in game runtime:
-     ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/LoadLevelBP.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/LoadLevelBP.JPG)
 
   
   - 2D Sprites and Tilemap
