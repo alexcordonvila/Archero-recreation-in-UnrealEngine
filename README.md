@@ -31,9 +31,11 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 ## HUD and 3D UI:
 
 - Current Character's level:
+
 <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/HUD2.JPG" width="400" title="Particles">
 
 - Current Character's health:
+
 <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/HUD.JPG" width="400" title="Particles">
 
 
@@ -66,8 +68,6 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 ![Physics](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Physics.gif)
  
 ## BONUS POINTS:
--  
-  
 - Persistent data (Game Instance): We store the current character level and health.
 
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
@@ -87,6 +87,7 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterAnimation.JPG)
 
 - Custom weapons placed in character:  
+
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CharacterWeapon.JPG)
    
 - HUD animation for transitions between levels:
@@ -101,6 +102,7 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/EnemyAI.JPG)
 
 - Loading levels in game runtime:
+
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/LoadLevelBP.JPG)
 
   
