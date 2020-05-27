@@ -1,21 +1,25 @@
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-Learning-red)
 # Unreal Engine 4 Archero Recreation
 # Link to the gameplay video: 
-[![Learning Unreal Engine](https://i9.ytimg.com/vi/h3HG1Fals78/mq2.jpg?sqp=CMOXrvYF&rs=AOn4CLBxycsxCWPy84SWAklq-m_wr0noDA)](https://www.youtube.com/watch?v=h3HG1Fals78&feature=youtu.be "Unreal Engine Archero ")
+[![Archero Recreation Unreal Engine](https://i9.ytimg.com/vi/h3HG1Fals78/mq2.jpg?sqp=CO2zuPYF&rs=AOn4CLDCIG5Y0jbHFYENrvvRS1MLBp08OQ)](https://www.youtube.com/watch?v=h3HG1Fals78&feature=youtu.be "Unreal Engine Archero ")
 ## Custom Blueprints:
 - Custom camera movement: Camera only moving when player go upwards or downwards.
-![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG)
+
+<img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG" title="Particles">
 
 
 ## Particle Effects:
  Ghost single particle used in the enemy death effect:
  
- ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG)
+
+<img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG" width="400" title="Particles">
+
  
  Step dust particle:
  
- ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG)
-   
+
+ <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG" width="400" title="Particles">
+  
 ## HUD and 3D UI:
 
 ## Sounds:
