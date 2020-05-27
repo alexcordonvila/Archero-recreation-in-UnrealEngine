@@ -88,16 +88,16 @@ Loading player state:
    
   - HUD animation for transitions between levels:
   
+  ![Color]( https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/transition.gif)
+  
+  
   - Character Retargetting:
   
   - Artificial Intelligence:
   
-  - Pathfinding:
-  
   - Loading levels in game runtime:
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/LoadLevelBP.JPG)
 
-  
   - 2D Sprites and Tilemap
   
 ## STYLE AND ARTWORK
