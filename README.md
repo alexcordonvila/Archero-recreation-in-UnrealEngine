@@ -23,7 +23,7 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle1.JPG" width="400" title="Particles">
 
  
- Step dust particle:
+ Step dust particle: This particle will spawn every 2 character's steps.
  
 
  <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Particle2.JPG" width="400" title="Particles">
@@ -44,6 +44,8 @@ This game is a recreation of the Archero Mobile game. You can move the main char
  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds1.JPG)
  
  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds2.JPG)
+ 
+  ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Sounds3.JPG)
  
  - Step sounds placed in animation:
  
