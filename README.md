@@ -7,11 +7,14 @@
 
 https://youtu.be/h3HG1Fals78
 
+## Game Description
+This game is a recreation of the Archero Mobile game. You can move the main character with WASD. If you release WASD and the character approaches an enemy, he will automatically aim and shoot him. If you kill an enemy you will gain 10 pickups. Your character will level up every 100 points.
+
+
 ## CUSTOM BLUEPRINTS:
 - Custom camera movement: Camera only moving when player go upwards or downwards.
 
 <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG" title="Particles">
-
 
 ## PARTICLE EFFECTS:
  Ghost single particle used in the enemy death effect:
