@@ -101,7 +101,7 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Enemy%20Behaviour1.JPG)
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/EnemyAI.JPG)
 
-- Loading levels in game runtime:
+- Loading levels in game:
 
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/LoadLevelBP.JPG)
 
