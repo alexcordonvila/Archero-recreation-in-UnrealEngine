@@ -66,12 +66,14 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 ![Physics](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Physics.gif)
  
 ## BONUS POINTS:
-- Persistent data: We store the current character level and health.
+-  
   
-- Game Instance:
+- Persistent data (Game Instance): We store the current character level and health.
+
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_GI.JPG)
 
-Loading player state:
+- Persistent data (Loading player state): 
+
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState.JPG)
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/PersistentData_LoadPlayerState_Init.JPG)
 
