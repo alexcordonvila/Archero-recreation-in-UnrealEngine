@@ -54,12 +54,12 @@ This game is a recreation of the Archero Mobile game. You can move the main char
 ## TERRAIN:
 - We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
   
- ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/TileMap2.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/TileMap2.JPG)
 
 ## PHYSICS:
 - Projectiles: This blueprint uses physics collisions and gravity. This element only can interact with floor and character.
   
- ![Physics]( https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Projectiles.gif)
+![Physics]( https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Projectiles.gif)
  
 - Pickups: Physics are deactivated when each element touches the ground so that the player can attract them.
 
@@ -93,8 +93,11 @@ Loading player state:
     
 - Character Retargetting:
   
-- Artificial Intelligence:
-  
+- Enemy Artificial Intelligence and behaviour:
+
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Enemy%20Behaviour1.JPG)
+![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/EnemyAI.JPG)
+
 - Loading levels in game runtime:
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/LoadLevelBP.JPG)
 
