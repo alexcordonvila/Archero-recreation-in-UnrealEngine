@@ -7,13 +7,13 @@
 
 https://youtu.be/h3HG1Fals78
 
-## Custom Blueprints:
+## CUSTOM BLUEPRINTS:
 - Custom camera movement: Camera only moving when player go upwards or downwards.
 
 <img src="https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/CustomCameraMovement.JPG" title="Particles">
 
 
-## Particle Effects:
+## PARTICLE EFFECTS:
  Ghost single particle used in the enemy death effect:
  
 
@@ -27,7 +27,7 @@ https://youtu.be/h3HG1Fals78
   
 ## HUD and 3D UI:
 
-## Sounds:
+## SOUNDS:
  
  - 3 sound queues:
  
@@ -39,7 +39,7 @@ https://youtu.be/h3HG1Fals78
  
   ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/SoundsSteps.JPG)
  
-  ## Terrain:
+  ## TERRAIN:
   - We didn't have any terrain in game, but we've worked to create a 2D terrain with tilemaps and tilesets
   
 ![Color](https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/TileMap2.JPG)
@@ -47,7 +47,7 @@ https://youtu.be/h3HG1Fals78
   
   
   
-  ## Physics:
+  ## PHYSICS:
   - Projectiles:
   
 ![Physics]( https://github.com/incodemon/Archero-recreation-in-UnrealEngine/blob/master/data/Projectiles.gif)
@@ -89,7 +89,7 @@ Loading player state:
   
   - 2D Sprites and Tilemap
   
-## Style and artwork
+## STYLE AND ARTWORK
   - We've used the modular Sci-Fi Kitbash Level Builder: https://www.unrealengine.com/marketplace/en-US/product/scifi-kitbash-level-builder
   - We've used the original Doom's sound FX, GDC 2018 & 2019 audio packs and some Infinity Blade Effects (https://www.youtube.com/watch?v=VMbPHuU1KRs)
   - Player can be controlled with keyboard and mouse and we added the controller input.
